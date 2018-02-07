@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sfpx-pnp-provisioning-client-side-solution",
+    "id": "00a7dbec-85f0-46d9-a84b-4a49f3e72c5c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/sfpx-pnp-provisioning.sppkg"
+  }
+}

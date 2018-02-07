@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "sfpx-pnp-provisioning",
+    "libraryId": "00a7dbec-85f0-46d9-a84b-4a49f3e72c5c",
+    "environment": "spo"
+  }
+}
